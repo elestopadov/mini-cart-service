@@ -10,15 +10,9 @@ JDK 21 LTS, Maven 3.9+, JUnit Jupiter 5.14.4, TestNG 7.12.0, Mockito 5.23.0, Ass
 ## Project structure:
 ```
 ├── docs
-│   ├── AUDIT-FINDINGS.md
 │   ├── BUSINESS-RULES.md
 │   ├── COVERAGE-DEMO.md
-│   ├── FINAL-VERIFICATION.md
-│   ├── JENKINS.md
-│   ├── RELEASE-AUDIT.md
-│   ├── SHA256SUMS.txt
 │   ├── TESTING-CHECKLIST.md
-│   ├── TEST-PLAN.md
 │   └── VERSION-MATRIX.md
 ├── pom.xml
 ├── README.md
