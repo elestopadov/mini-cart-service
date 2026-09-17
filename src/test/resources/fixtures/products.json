@@ -1,0 +1,5 @@
+[
+  {"id":"p-100","name":"Java Book","price":25.00,"category":"BOOKS"},
+  {"id":"p-200","name":"Coffee Beans","price":30.00,"category":"FOOD"},
+  {"id":"p-300","name":"Headphones","price":100.00,"category":"ELECTRONICS"}
+]
